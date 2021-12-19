@@ -418,7 +418,7 @@ int main()
 	char c, txt[TXT],word[WORD];
 	int i=0;
 
-	printf("Enter your TXT: \n");
+	//printf("Enter your TXT: \n");
 	
 	
 	c = getchar();
