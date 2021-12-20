@@ -55,7 +55,7 @@ void func_a(char w[WORD], char t[TXT] )
 		
 	}
 	str[k-1]='\0';
-	printf("%s \n", str);
+	printf("%s\n", str);
 
 }
 
